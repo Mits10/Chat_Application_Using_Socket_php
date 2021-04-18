@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #687bbe;
+}
+.index{
+  width: auto;
+  margin-top: 300px;
+  position: relative;
+}
+h1{
+  text-align: center;
+  font-size: 100px;
+}
+a{
+  position: absolute;
+  font-size: 50px;
+  left: 380px;
+}

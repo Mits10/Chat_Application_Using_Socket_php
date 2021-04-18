@@ -1,0 +1,36 @@
+*{
+  margin: 10px;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #687bbe;
+}
+.form {
+  background-color: #3792cb;
+  width: 500px;
+  height: 500px;
+  margin-top:300px;
+  margin-left: 270px;
+  margin-right: 270px;
+  margin-bottom: 200px;
+}
+h1{
+  text-align: center;
+  color: #000066;
+  font-size: 40px;
+  margin-bottom: 30px;
+}
+input {
+  width: 450px;
+  height:30px;
+}
+#submit{
+  width: 225px;
+  background-color: #687bbe;
+  margin-left: 125px;
+}
+label{
+  font-size: 20px;
+}
